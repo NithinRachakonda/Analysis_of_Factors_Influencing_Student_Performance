@@ -19,7 +19,7 @@ To analyze the correlation between student demographics (like study group, atten
 
 ## Tableau Visualizations
 Explore all the visualization on Tableau Public here:  
-🔗 [View Dashboard](https://public.tableau.com/app/profile/vinod.nithin.kumar.rachakonda/viz/Tableau-BasedAnalysisofFactorsInfluencingStudentPerformance/Correlationofmarkswithstudy-time)
+🔗 [View on Tableau Public](https://public.tableau.com/app/profile/vinod.nithin.kumar.rachakonda/viz/Tableau-BasedAnalysisofFactorsInfluencingStudentPerformance/Correlationofmarkswithstudy-time)
 
 ## Conclusion
 The dashboard effectively visualizes the drivers of student performance, highlighting the need for targeted tutoring, structured attendance enforcement, and curriculum interventions—especially for at-risk Arts students.
